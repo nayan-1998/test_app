@@ -1,0 +1,124 @@
+    1  pwd
+    2  1s
+    3  mkdir python
+    4  mkdirpython
+    5  mkdir python
+    6  rmdir python
+    7  mkdir test app
+    8  touch f2.sql f3.py
+    9  cat f4.txt
+   10  touch f2.txt
+   11  cat f2.txt
+   12  touch f2.txt
+   13  cat f2.txt
+   14  cat f2.txt
+   15  catf2.txt
+   16  cat f2.txt
+   17  cat f2.txt
+   18  cat f2.txt
+   19  nano f2.txt
+   20  cat f2.txt
+   21  mkdir test_app
+   22  mkdir test_app
+   23  rmdir
+   24  rmdir--test_ap
+   25  rmdir
+   26  rmdir test_app
+   27  mkdir test_app
+   28  pwd
+   29  pwd
+   30  ls
+   31  cd test_app
+   32  touch f1.txt f2.py command.txt
+   33  git init
+   34  ls-a
+   35  ls -a
+   36  rm-r. git
+   37  rm-r.git
+   38  rm -r.git
+   39  rm -r .git
+   40  git init
+   41  git config--list
+   42  git config --list
+   43  git config --global user.name "nayan-1998"
+   44  git config --global user.email "nayan132.a@gmail.com"
+   45  clear
+   46  git remote -v
+   47  git remote add origin https://github.com/nayan-1998/test_app.git
+   48  git remote-v
+   49  git remote -v
+   50  git push --set upstream origin main
+   51  git status
+   52  git push --set upstream origin main
+   53  git add f1.txt
+   54  git add f1.txt
+   55  git status
+   56  git rm --cached f2.sql
+   57  git rm --f2.py
+   58  git rm --f1.py
+   59  git rm --cached f1.py
+   60  git rm --cached f1.sql
+   61  git rm--cached f2.sql
+   62  git rm --cached f2.sql
+   63  git add .
+   64  git status
+   65  git commit -m "This is my first commit"
+   66  git status
+   67  git push -f origin main
+   68  git push -f origin master
+   69  git push --set upstream origin main
+   70  git push --set upstream origin master
+   71  git push
+   72  git push --set-upstream origin master
+   73  git push
+   74  ls
+   75  mk dir test_app
+   76  mk dir testapp
+   77  mkdir test_app
+   78  ls
+   79  mkdir test_app
+   80  pwd
+   81  cd test_app
+   82  ls
+   83  pwd
+   84  ls
+   85  git status
+   86  ls
+   87  pwd
+   88  ls
+   89  1sd
+   90  1s
+   91  pwd
+   92  ls
+   93  cat test_app
+   94  git status
+   95  git init
+   96  git config --list
+   97  ls
+   98  cat
+   99  pwd
+  100  cd test_app
+  101  ls
+  102  pws
+  103  pwd
+  104  ls
+  105  git status
+  106  touch f2.sql f3.txt f2.py f4.txt
+  107  ls
+  108  git status
+  109  git add f2.py f3.txt
+  110  git status
+  111  git rm --cached f3.txt
+  112  git status
+  113  git add f3.txt
+  114  git add .
+  115  git status
+  116  ls
+  117  mk dir test_app
+  118  mkdir test_app
+  119  cd test_app
+  120  cat
+  121  pwd
+  122  cd test_app
+  123  ls -a
+  124  history >> commands.txt
